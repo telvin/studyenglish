@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="" />
+    <ignored path="studyenglish.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/main.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373952325445" ignored="false" />
+    <file path="/*.regexp" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373956402230" ignored="false" />
+    <file path="E:/SourceCodes/HTML &amp;&amp; CSS/digy_free_standard/default/home.html" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373804618297" ignored="false" />
+    <file path="/home.html" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373804618297" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/partialcoding/admincontent/_get-top-member-region.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373805991095" ignored="false" />
+    <file path="/_get-top-member-region.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373805991095" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/layouts/column1.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373806602473" ignored="false" />
+    <file path="/commons.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373806681458" ignored="false" />
+    <file path="/container.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373807177303" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/TestController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874416732" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/config/hosconfig.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373855382469" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/Resources.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373960623300" ignored="false" />
+    <file path="/Resources.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373855527086" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/_index-mid-memberview-objs.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373858782219" ignored="false" />
+    <file path="/_index-mid-memberview-objs.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373858689707" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/_index-mid-child-objs.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874343422" ignored="false" />
+    <file path="/_index-mid-child-objs.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373873678299" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/css/new_content_database.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373886326888" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/.htaccess" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373861699159" ignored="false" />
+    <file path="/container1.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373866232530" ignored="false" />
+    <file path="/new_content_database.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874032155" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/__index-top-objs-scroll.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874343422" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/_index-mid-item-member.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874024520" ignored="false" />
+    <file path="/_index-mid-item-member.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874025019" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/_index-mid-accform-item.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373961474268" ignored="false" />
+    <file path="/_index-mid-accform-item.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373961441013" ignored="false" />
+    <file path="/VocabularyController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373879113636" ignored="false" />
+    <file path="/create.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373878683246" ignored="false" />
+    <file path="/CategoryController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373879153555" ignored="false" />
+    <file path="/create-category.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373882439198" ignored="false" />
+    <file path="/main.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373882771550" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/Commons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373940760900" ignored="false" />
+    <file path="/UserIdentity.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373941422411" ignored="false" />
+    <file path="/SiteController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373941232013" ignored="false" />
+    <file path="/header.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989596833" ignored="false" />
+    <file path="/DefaultController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989629852" ignored="false" />
+    <file path="/AdminModule.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990683835" ignored="false" />
+    <file path="/PathHelper.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373957562799" ignored="false" />
+    <file path="/login.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989471271" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-simplex.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-redy.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-united.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/4359e8ff/css/bootstrap.min.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-classic.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/4359e8ff/less/sprites.less" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-slate.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-classic.min.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-cerulean.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-spacelab.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-journal.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/charisma-app.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/4359e8ff/css/bootstrap.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-cyborg.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
+    <file path="/a.dummy" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990465392" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.dataTables.min.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990726413" ignored="false" />
+    <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990757929" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="studyenglish" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="18" selection-start="852" selection-end="857" vertical-scroll-proportion="-0.71428573">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminModule.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/AdminModule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="30" selection-start="2264" selection-end="2272" vertical-scroll-proportion="-4.8">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="-2.1818182">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="-0.71428573">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="44" selection-start="216" selection-end="216" vertical-scroll-proportion="-5.714286">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="85" column="243" selection-start="3987" selection-end="3991" vertical-scroll-proportion="-6.0">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#p#1;n#div#1;n#div#2;n#div#3;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/gallery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="69" selection-start="1098" selection-end="1098" vertical-scroll-proportion="-7.642857">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="14" selection-start="392" selection-end="398" vertical-scroll-proportion="-2.8909092">
+              <folding>
+                <marker date="1373990022232" expanded="true" signature="2518:5186" placeholder="..." />
+                <marker date="1373990022232" expanded="true" signature="5156:5186" placeholder="..." />
+                <marker date="1373990022232" expanded="true" signature="5182:5186" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="charisma.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="51" selection-start="689" selection-end="689" vertical-scroll-proportion="0.7490637">
+              <folding>
+                <marker date="1373990757766" expanded="false" signature="14406:14432" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="49" selection-start="3203" selection-end="3203" vertical-scroll-proportion="-4.571429">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/themes/classic/css/main.css" />
+        <option value="$PROJECT_DIR$/themes/classic/views/category/create-category.php" />
+        <option value="$PROJECT_DIR$/framework/ssgii/CCodeModel.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/protected/components/UserIdentity.php" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/protected/helpers/PathHelper.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/index.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/gallery.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/footer.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1928" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settings.ide.settings.file-colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../signsmart2" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wamp\www\studyenglish\protected\helpers" />
+      <recent name="E:\wamp\www\studyenglish\protected\controllers" />
+      <recent name="E:\wamp\www\studyenglish" />
+      <recent name="E:\wamp\www\studyenglish\protected" />
+      <recent name="E:\wamp\www\studyenglish\themes\classic\views\layouts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="" />
+      <created>1373803098264</created>
+      <updated>1373803098264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="0" width="1928" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3618202" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20942408" sideWeight="0.6381798" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3618202" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/components/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="884" selection-end="884" vertical-scroll-proportion="2.5454545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/helpers/SettingResources.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/helpers/Commons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/helpers/PathHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="69" selection-start="1098" selection-end="1098" vertical-scroll-proportion="-7.642857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="49" selection-start="3203" selection-end="3203" vertical-scroll-proportion="-4.571429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="392" selection-end="398" vertical-scroll-proportion="-2.8909092">
+          <folding>
+            <marker date="1373990022232" expanded="true" signature="2518:5186" placeholder="..." />
+            <marker date="1373990022232" expanded="true" signature="5156:5186" placeholder="..." />
+            <marker date="1373990022232" expanded="true" signature="5182:5186" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="18" selection-start="852" selection-end="857" vertical-scroll-proportion="-0.71428573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="-2.1818182">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="-0.71428573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="44" selection-start="216" selection-end="216" vertical-scroll-proportion="-5.714286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="243" selection-start="3987" selection-end="3991" vertical-scroll-proportion="-6.0">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#p#1;n#div#1;n#div#2;n#div#3;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/AdminModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="30" selection-start="2264" selection-end="2272" vertical-scroll-proportion="-4.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="51" selection-start="689" selection-end="689" vertical-scroll-proportion="0.7490637">
+          <folding>
+            <marker date="1373990757766" expanded="false" signature="14406:14432" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

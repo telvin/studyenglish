@@ -5,6 +5,7 @@ class DefaultController extends AdminController
     public $no_visible_elements = false;
     public function actionIndex()
     {
+        /*
         $this->adminMenu = array(
             array('label' => 'Admin Operations'),
             array('label' => 'Dashboard Home', 'icon' => 'home', 'url' => array('default/index#'), 'active' => true),
@@ -14,6 +15,7 @@ class DefaultController extends AdminController
             array('label' => 'Demo 4', 'icon' => 'book', 'url' => array('demo4'))
         );
 
+        */
         $this->render('index');
     }
 

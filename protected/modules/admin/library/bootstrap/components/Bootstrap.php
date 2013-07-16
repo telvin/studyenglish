@@ -1,11 +1,4 @@
 <?php
-/**
- * Bootstrap class file.
- * @author Christoffer Niska <ChristofferNiska@gmail.com>
- * @copyright Copyright &copy; Christoffer Niska 2011-
- * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
- * @version 2.0.3
- */
 
 /**
  * Bootstrap application component.
@@ -46,8 +39,10 @@ class Bootstrap extends CApplicationComponent
 	 */
 	public function registerCoreCss()
 	{
+        /*
 		$filename = YII_DEBUG ? 'bootstrap.css' : 'bootstrap.min.css';
 		Yii::app()->clientScript->registerCssFile($this->getAssetsUrl().'/css/'.$filename);
+        */
 	}
 
 	/**

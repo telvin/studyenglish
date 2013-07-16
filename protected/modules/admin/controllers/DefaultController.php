@@ -3,6 +3,7 @@
 class DefaultController extends AdminController
 {
     public $no_visible_elements = false;
+    public $layout = "main";
     public function actionIndex()
     {
         /*

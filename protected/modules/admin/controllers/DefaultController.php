@@ -25,4 +25,59 @@ class DefaultController extends AdminController
 
         $this->render('login');
     }
+
+    public function actionBlank(){
+
+        $this->render('blank');
+    }
+
+    public function actionCalendar(){
+
+        $this->render('calendar');
+    }
+
+    public function actionChart(){
+
+        $this->render('chart');
+    }
+
+    public function actionFileManager(){
+
+        $this->render('file-manager');
+    }
+
+    public function actionForm(){
+
+        $this->render('form');
+    }
+
+    public function actionGallery(){
+
+        $this->render('gallery');
+    }
+
+    public function actionGrid(){
+
+        $this->render('grid');
+    }
+
+    public function actionTypography(){
+
+        $this->render('typography');
+    }
+
+    public function actionTour(){
+
+        $this->render('tour');
+    }
+
+    public function actionUi(){
+
+        $this->render('ui');
+    }
+
+    public function actionError(){
+        $this->layout = '//layouts/empty';
+        $this->render('error');
+    }
 }

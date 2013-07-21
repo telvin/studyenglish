@@ -25,7 +25,26 @@
                 <button type="button" class="close" data-dismiss="alert">×</button>
                 <i class="icon-info-sign"></i> As its a demo, you currently have read-only permission, in your server you may do everything like, upload or delete. It will work on a server only.
             </div>
-            <div class="file-manager"></div>
+<!--            <div class="file-manager"></div>-->
+
+            <?php
+            //ServerFileInput - use this widget to choose file on server using ElFinder pop-up
+            /*
+            $this->widget('ext.elFinder.ServerFileInput', array(
+                    'model' => $model,
+                    'attribute' => 'serverFile',
+                    'connectorRoute' => 'admin/elfinder/connector',
+                )
+            );
+            */
+
+            // ElFinder widget - use this widget to manage files
+            $this->widget('ext.elFinder.ElFinderWidget', array(
+                    'connectorRoute' => 'admin/elfinder/connector',
+                )
+            );
+
+            ?>
         </div>
     </div><!--/span-->
 

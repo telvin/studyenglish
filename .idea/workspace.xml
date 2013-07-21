@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/grid.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/grid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" afterPath="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/CategoryController.php" afterPath="$PROJECT_DIR$/protected/controllers/CategoryController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" afterPath="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/table.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studyenglish.iws" />
@@ -16,8 +24,8 @@
     <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/layouts/column1.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373806602473" ignored="false" />
     <file path="/commons.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373806681458" ignored="false" />
     <file path="/container.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373807177303" ignored="false" />
-    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/TestController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373874416732" ignored="false" />
-    <file path="$PROJECT_DIR$/../signsmart2/protected/config/hosconfig.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373855382469" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/TestController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374234264199" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/config/hosconfig.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374232740287" ignored="false" />
     <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/Resources.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373960623300" ignored="false" />
     <file path="/Resources.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373855527086" ignored="false" />
     <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/_index-mid-memberview-objs.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373858782219" ignored="false" />
@@ -38,14 +46,14 @@
     <file path="/CategoryController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373879153555" ignored="false" />
     <file path="/create-category.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373882439198" ignored="false" />
     <file path="/main.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373882771550" ignored="false" />
-    <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/Commons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373940760900" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/Commons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374229592626" ignored="false" />
     <file path="/UserIdentity.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373941422411" ignored="false" />
     <file path="/SiteController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373941232013" ignored="false" />
-    <file path="/header.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070480592" ignored="false" />
-    <file path="/DefaultController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374071129181" ignored="false" />
-    <file path="/AdminModule.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990683835" ignored="false" />
+    <file path="/header.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374201185372" ignored="false" />
+    <file path="/DefaultController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374415490894" ignored="false" />
+    <file path="/AdminModule.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374417884658" ignored="false" />
     <file path="/PathHelper.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373957562799" ignored="false" />
-    <file path="/login.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989471271" ignored="false" />
+    <file path="/login.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374414902488" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-simplex.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-redy.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-united.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
@@ -60,12 +68,42 @@
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/charisma-app.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
     <file path="$PROJECT_DIR$/assets/4359e8ff/css/bootstrap.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-cyborg.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
-    <file path="/a.dummy" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070151008" ignored="false" />
+    <file path="/a.dummy" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374424070235" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.dataTables.min.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990726413" ignored="false" />
-    <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990757929" ignored="false" />
+    <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418026325" ignored="false" />
     <file path="/column2.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373995676408" ignored="false" />
-    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374071952800" ignored="false" />
+    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374411620856" ignored="false" />
     <file path="/error.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070802496" ignored="false" />
+    <file path="/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374200938782" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/kiosk/usercontrols/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374202062090" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/kiosk/usercontrols/_index_ovworkspace_action.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374233094298" ignored="false" />
+    <file path="/CWebUser.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374201822779" ignored="false" />
+    <file path="/_index_ovworkspace_action.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374202043340" ignored="false" />
+    <file path="/Commons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374209242752" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/shared/_mid-object-script.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374208213646" ignored="false" />
+    <file path="/_mid-object-script.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374208076296" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/js/commons.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374208269646" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/KioskCommons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374228880195" ignored="false" />
+    <file path="/KioskCommons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374225627325" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/KioskController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374212006803" ignored="false" />
+    <file path="/KioskController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374211972271" ignored="false" />
+    <file path="/AdminController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374218781557" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/SiteController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374218742454" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/logs/debug_logs.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374222549457" ignored="false" />
+    <file path="/TestController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374234216891" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/admincontent/usercontrols/_index-regular-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374228455658" ignored="false" />
+    <file path="/_index-regular-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374228286034" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/controllers/partialcoding/machform/_save_form.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374228777932" ignored="false" />
+    <file path="$PROJECT_DIR$/../signsmart2/protected/vendors/HpCloudCommons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374234988444" ignored="false" />
+    <file path="/HpCloudCommons.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374234960461" ignored="false" />
+    <file path="/admin.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374415338805" ignored="false" />
+    <file path="/ElfinderController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374419933800" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/3fb3949f/misc/elfinder-connector/elFinderVolumeDriver.class.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418483232" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/3fb3949f/misc/elfinder-connector/elFinderVolumeMySQL.class.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418483232" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/3fb3949f/js/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418828268" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/3fb3949f/misc/elfinder-connector/elFinderConnector.class.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418828268" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/3fb3949f/misc/elfinder-connector/elFinder.class.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418828268" ignored="false" />
+    <file path="/file-manager.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374423646341" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,111 +123,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="file-manager.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ElfinderController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="33" selection-start="144" selection-end="144" vertical-scroll-proportion="-4.285714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElFinderWidget.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderWidget.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="36.42857">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connector.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/php/connector.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="49" selection-start="340" selection-end="340" vertical-scroll-proportion="-9.285714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="6.428571">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="charisma.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="156" column="36" selection-start="4549" selection-end="4549" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1374423525135" expanded="false" signature="14457:14483" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="54" selection-start="836" selection-end="840" vertical-scroll-proportion="25.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminModule.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/AdminModule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="73" selection-start="2623" selection-end="2623" vertical-scroll-proportion="-6.6545453">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connector.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/connector.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="9" selection-start="2002" selection-end="2002" vertical-scroll-proportion="-11.745455">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file-manager.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="18" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-9.821428">
+            <state line="38" column="14" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.56892776">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grid.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/grid.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="237" column="0" selection-start="8655" selection-end="8655" vertical-scroll-proportion="0.74452555">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="48" selection-start="8371" selection-end="8373" vertical-scroll-proportion="111.85714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ui.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/ui.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="285" column="0" selection-start="0" selection-end="14018" vertical-scroll-proportion="-14.107142">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typography.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/typography.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="0" selection-start="0" selection-end="9670" vertical-scroll-proportion="-10.285714">
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tour.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/tour.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="24" selection-start="865" selection-end="865" vertical-scroll-proportion="-11.964286">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="table.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1137" column="17" selection-start="0" selection-end="35563" vertical-scroll-proportion="-648.6071">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="73" selection-start="451" selection-end="451" vertical-scroll-proportion="1.8928572">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/gallery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="17" selection-start="1640" selection-end="1640" vertical-scroll-proportion="-13.392858">
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/icon.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="351" column="0" selection-start="320534" selection-end="320534" vertical-scroll-proportion="-8.142858">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#section#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#section#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -214,29 +226,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/index.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/calendar.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/blank.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/chart.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/error.php" />
+        <option value="$PROJECT_DIR$/framework/web/auth/CWebUser.php" />
+        <option value="$PROJECT_DIR$/protected/views/category/index.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/components/AdminController.php" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/assets/css/admin.css" />
         <option value="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/form.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/gallery.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/icon.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/default/table.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/ui.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/typography.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/tour.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/grid.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" />
+        <option value="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.elfinder.min.js" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/elFinderVolumeMySQL.class.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="y" value="-9" />
     <option name="width" value="1932" />
     <option name="height" value="1050" />
   </component>
@@ -294,51 +305,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyenglish" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyenglish" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyenglish" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studyenglish" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="classic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -356,6 +327,86 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="protected" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -368,11 +419,219 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elfinder-connector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elfinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elfinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elfinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elfinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,10 +644,10 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="E:/SourceCodes/yii extensions/admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -441,28 +700,32 @@
       <created>1374071959893</created>
       <updated>1374071959893</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="remove header and footer on admin sub pages">
+      <created>1374074413017</created>
+      <updated>1374074413017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1932" height="1050" extended-state="0" />
-    <editor active="false" />
+    <frame x="-9" y="0" width="1932" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24750277" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47058824" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39067703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20794149" sideWeight="0.6703663" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23615465" sideWeight="0.60932297" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39067703" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -531,140 +794,120 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/calendar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="0" selection-end="1617" vertical-scroll-proportion="-8.571428">
-          <folding>
-            <element signature="tag#div#1" expanded="false" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/bform.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/blank.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="823" selection-end="823" vertical-scroll-proportion="-2.857143">
-          <folding>
-            <element signature="tag#div#0" expanded="false" />
-            <element signature="tag#div#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/layouts/empty.php">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/mime.types">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/error.php">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/MySQLStorage.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="68" selection-start="1796" selection-end="1796" vertical-scroll-proportion="-40.714287">
+        <state line="16" column="50" selection-start="735" selection-end="735" vertical-scroll-proportion="0.51715684">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/elFinderVolumeMySQL.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="44" selection-start="1083" selection-end="1083" vertical-scroll-proportion="-10.714286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="720" column="8" selection-start="17708" selection-end="17708" vertical-scroll-proportion="0.35208333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/elFinder.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="11" selection-start="7473" selection-end="7476" vertical-scroll-proportion="-70.67273">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="36" selection-start="4549" selection-end="4549" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1374423525135" expanded="false" signature="14457:14483" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/connector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="9" selection-start="2002" selection-end="2002" vertical-scroll-proportion="-11.745455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.888889">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="54" selection-start="836" selection-end="840" vertical-scroll-proportion="25.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="8" selection-start="1705" selection-end="1739" vertical-scroll-proportion="-8.607142">
+        <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="6.428571">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/form.php">
+    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/php/connector.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="332" column="0" selection-start="0" selection-end="18176" vertical-scroll-proportion="-10.285714">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#fieldset#0;n#form#0;n#div#1;n#div#0;n#div#3;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/icon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="351" column="0" selection-start="320534" selection-end="320534" vertical-scroll-proportion="-8.142858">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#section#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#section#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="48" selection-start="8371" selection-end="8373" vertical-scroll-proportion="111.85714">
+        <state line="13" column="49" selection-start="340" selection-end="340" vertical-scroll-proportion="-9.285714">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/table.php">
+    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderWidget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1137" column="17" selection-start="0" selection-end="35563" vertical-scroll-proportion="-648.6071">
+        <state line="12" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="36.42857">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/typography.php">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="0" selection-start="0" selection-end="9670" vertical-scroll-proportion="-10.285714">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/tour.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="24" selection-start="865" selection-end="865" vertical-scroll-proportion="-11.964286">
+        <state line="6" column="33" selection-start="144" selection-end="144" vertical-scroll-proportion="-4.285714">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/gallery.php">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/AdminModule.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="17" selection-start="1640" selection-end="1640" vertical-scroll-proportion="-13.392858">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="73" selection-start="451" selection-end="451" vertical-scroll-proportion="1.8928572">
+        <state line="91" column="73" selection-start="2623" selection-end="2623" vertical-scroll-proportion="-6.6545453">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/ui.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="285" column="0" selection-start="0" selection-end="14018" vertical-scroll-proportion="-14.107142">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="18" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-9.821428">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/grid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="0" selection-start="8655" selection-end="8655" vertical-scroll-proportion="0.74452555">
+        <state line="38" column="14" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.56892776">
           <folding />
         </state>
       </provider>

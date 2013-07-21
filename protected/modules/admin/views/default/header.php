@@ -87,7 +87,7 @@
 					<ul class="dropdown-menu">
 						<li><a href="#">Profile</a></li>
 						<li class="divider"></li>
-						<li><a href="login.html">Logout</a></li>
+						<li><a href="<?php echo $this->createUrl('default/logout') ?>">Logout</a></li>
 					</ul>
 				</div>
 				<!-- user dropdown ends -->
@@ -126,7 +126,7 @@
 						<li><a class="ajax-link" href="<?php echo $this->createUrl('default/table') ?>"><i class="icon-align-justify"></i><span class="hidden-tablet"> Tables</span></a></li>
 						<li><a class="ajax-link" href="<?php echo $this->createUrl('default/calendar') ?>"><i class="icon-calendar"></i><span class="hidden-tablet"> Calendar</span></a></li>
 						<li><a class="ajax-link" href="<?php echo $this->createUrl('default/grid') ?>"><i class="icon-th"></i><span class="hidden-tablet"> Grid</span></a></li>
-						<li><a class="ajax-link" href="<?php echo $this->createUrl('default/file-manager') ?>"><i class="icon-folder-open"></i><span class="hidden-tablet"> File Manager</span></a></li>
+						<li><a class="ajax-link" href="<?php echo $this->createUrl('default/filemanager') ?>"><i class="icon-folder-open"></i><span class="hidden-tablet"> File Manager</span></a></li>
 						<li><a href="<?php echo $this->createUrl('default/tour') ?>"><i class="icon-globe"></i><span class="hidden-tablet"> Tour</span></a></li>
 						<li><a class="ajax-link" href="<?php echo $this->createUrl('default/icon') ?>"><i class="icon-star"></i><span class="hidden-tablet"> Icons</span></a></li>
 						<li><a href="<?php echo $this->createUrl('default/error') ?>"><i class="icon-ban-circle"></i><span class="hidden-tablet"> Error Page</span></a></li>

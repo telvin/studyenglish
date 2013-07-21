@@ -10,20 +10,35 @@
         <div class="alert alert-info">
             Please login with your Username and Password.
         </div>
-        <form class="form-horizontal" action="index.html" method="post">
+            <?php $form=$this->beginWidget('CActiveForm', array(
+                'id'=>'login-form',
+                'enableClientValidation'=>true,
+                'clientOptions'=>array(
+                    'validateOnSubmit'=>true,
+                ),
+                'htmlOptions'=>array(
+                    'class'=> 'form-horizontal'
+                )
+            )); ?>
             <fieldset>
                 <div class="input-prepend" title="Username" data-rel="tooltip">
-                    <span class="add-on"><i class="icon-user"></i></span><input autofocus class="input-large span10" name="username" id="username" type="text" value="admin" />
+                    <span class="add-on"><i class="icon-user"></i></span>
+                    <?php echo $form->textField($model,'username', array('autofocus'=>'', 'class'=>'input-large span10')); ?>
+                    <?php echo $form->error($model,'username'); ?>
                 </div>
                 <div class="clearfix"></div>
 
                 <div class="input-prepend" title="Password" data-rel="tooltip">
-                    <span class="add-on"><i class="icon-lock"></i></span><input class="input-large span10" name="password" id="password" type="password" value="admin123456" />
+                    <span class="add-on"><i class="icon-lock"></i></span>
+                    <?php echo $form->passwordField($model,'password', array('class'=>'input-large span10')); ?>
+                    <?php echo $form->error($model,'password'); ?>
                 </div>
                 <div class="clearfix"></div>
 
                 <div class="input-prepend">
-                    <label class="remember" for="remember"><input type="checkbox" id="remember" />Remember me</label>
+                    <label class="remember" for="remember">
+                    <?php echo $form->checkBox($model,'rememberMe'); ?>Remember me</label>
+                    <?php echo $form->error($model,'rememberMe'); ?>
                 </div>
                 <div class="clearfix"></div>
 
@@ -31,6 +46,6 @@
                     <button type="submit" class="btn btn-primary">Login</button>
                 </p>
             </fieldset>
-        </form>
+        <?php $this->endWidget(); ?>
     </div><!--/span-->
 </div><!--/row-->

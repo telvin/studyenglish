@@ -30,6 +30,26 @@ class CategoryController extends Controller
 	}
 	*/
 
+    public function filters()
+    {
+        return array(
+            'accessControl', // perform access control for CRUD operations
+        );
+    }
+
+    public function accessRules()
+    {
+        return array(
+            array('allow',
+                'users' => array('@'),
+                //'expression' => for authenticated user
+            ),
+            array('deny', // deny all users to direct un-authenticated user to login
+                'users' => array('*'),
+            ),
+        );
+    }
+
     public $layout='//layouts/container2';
 
     public function actionIndex()

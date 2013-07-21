@@ -1,6 +1,4 @@
 
-
-
 <div>
     <ul class="breadcrumb">
         <li>

@@ -55,6 +55,14 @@ class AdminModule extends CWebModule
             )
         ));
 
+        Yii::app()->setComponents(array(
+            'user'=>array(
+                'class'=>'CWebUser',
+                'loginUrl'=>Yii::app()->createUrl($this->getId().'/default/login'),
+                'returnUrl'=>Yii::app()->createUrl($this->getId().'/default/index')
+            ),
+        ), false);
+
         $this->registerCoreCss();
         $this->registerScript();
         $this->registerBootstrap();
@@ -119,4 +127,18 @@ class AdminModule extends CWebModule
                 throw new Exception("Please update your Bootstrap extension to at least " . self::MIN_BOOTSTRAP_VERSION);
         }
     }
+
+    public function beforeControllerAction($controller, $action)
+    {
+        if (parent::beforeControllerAction($controller, $action))
+        {
+            // this method is called before any module controller action is performed
+            // you may place customized code here
+
+            return true;
+        }
+        else
+            return false;
+    }
+
 }

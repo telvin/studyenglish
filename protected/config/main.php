@@ -48,10 +48,12 @@ return array(
 	),
 
 	'modules'=>array(
-		// uncomment the following to enable the Gii tool
         'admin' => array(
             'defaultController' => 'default',
         ),
+
+
+        // uncomment the following to enable the Gii tool
         'gii'=>array(
             'class'=>'system.gii.GiiModule',
             'password'=>'password',
@@ -96,6 +98,8 @@ return array(
 
 		'urlManager'=>array(
 			'urlFormat'=>'path',
+            'showScriptName'=>false, //remove index.php once using Yii::app()->createUrl
+            'caseSensitive'=>false,
 			'rules'=>array(
 				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
 				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',

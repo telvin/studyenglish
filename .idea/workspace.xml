@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/admin/controllers/TinyMceController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studyenglish.iws" />
@@ -65,7 +63,7 @@
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.dataTables.min.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990726413" ignored="false" />
     <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418026325" ignored="false" />
     <file path="/column2.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373995676408" ignored="false" />
-    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374426239192" ignored="false" />
+    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374427013650" ignored="false" />
     <file path="/error.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070802496" ignored="false" />
     <file path="/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374200938782" ignored="false" />
     <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/kiosk/usercontrols/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374202062090" ignored="false" />
@@ -174,7 +172,7 @@
       <file leaf-file-name="file-manager.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="49" selection-start="323" selection-end="323" vertical-scroll-proportion="0.6796116">
+            <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.5339806">
               <folding />
             </state>
           </provider>
@@ -528,7 +526,11 @@
       <created>1374426532403</created>
       <updated>1374426532403</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="remove header and footer on admin sub pages">
+      <created>1374427016329</created>
+      <updated>1374427016329</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -730,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="49" selection-start="323" selection-end="323" vertical-scroll-proportion="0.6796116">
+        <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.5339806">
           <folding />
         </state>
       </provider>

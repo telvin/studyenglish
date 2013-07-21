@@ -25,7 +25,7 @@
                 <button type="button" class="close" data-dismiss="alert">×</button>
                 <i class="icon-info-sign"></i> As its a demo, you currently have read-only permission, in your server you may do everything like, upload or delete. It will work on a server only.
             </div>
-<!--            <div class="file-manager"></div>-->
+            <!--            <div class="file-manager"></div>-->
 
             <?php
             //ServerFileInput - use this widget to choose file on server using ElFinder pop-up
@@ -43,6 +43,28 @@
                     'connectorRoute' => 'admin/elfinder/connector',
                 )
             );
+
+
+            /*
+            $this->widget('ext.tinymce.TinyMce', array(
+                'model' => $model,
+                'attribute' => 'tinyMceArea',
+                // Optional config
+                'compressorRoute' => 'tinyMce/compressor',
+                //'spellcheckerUrl' => array('tinyMce/spellchecker'),
+                // or use yandex spell: http://api.yandex.ru/speller/doc/dg/tasks/how-to-spellcheck-tinymce.xml
+                'spellcheckerUrl' => 'http://speller.yandex.net/services/tinyspell',
+                'fileManager' => array(
+                    'class' => 'ext.elFinder.TinyMceElFinder',
+                    'connectorRoute'=>'admin/elfinder/connector',
+                ),
+                'htmlOptions' => array(
+                    'rows' => 6,
+                    'cols' => 60,
+                ),
+            ));
+
+            */
 
             ?>
         </div>

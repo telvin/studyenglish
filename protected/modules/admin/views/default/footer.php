@@ -89,7 +89,7 @@
 	<!-- notification plugin -->
 	<script src="<?php echo $this->module->getAssetsUrl() ?>/js/jquery.noty.js"></script>
 	<!-- file manager library -->
-	<script src="<?php echo $this->module->getAssetsUrl() ?>/js/jquery.elfinder.min.js"></script>
+<!--	<script src="--><?php //echo $this->module->getAssetsUrl() ?><!--/js/jquery.elfinder.min.js"></script>-->
 	<!-- star rating plugin -->
 	<script src="<?php echo $this->module->getAssetsUrl() ?>/js/jquery.raty.min.js"></script>
 	<!-- for iOS style toggle switch -->

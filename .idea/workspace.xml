@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" afterPath="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/CategoryController.php" afterPath="$PROJECT_DIR$/protected/controllers/CategoryController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" afterPath="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/table.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/modules/admin/views/default/footer.php" afterPath="$PROJECT_DIR$/protected/modules/admin/views/default/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studyenglish.iws" />
@@ -50,7 +42,7 @@
     <file path="/UserIdentity.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373941422411" ignored="false" />
     <file path="/SiteController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373941232013" ignored="false" />
     <file path="/header.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374201185372" ignored="false" />
-    <file path="/DefaultController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374415490894" ignored="false" />
+    <file path="/DefaultController.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374424325398" ignored="false" />
     <file path="/AdminModule.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374417884658" ignored="false" />
     <file path="/PathHelper.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373957562799" ignored="false" />
     <file path="/login.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374414902488" ignored="false" />
@@ -68,11 +60,11 @@
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/charisma-app.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
     <file path="$PROJECT_DIR$/assets/4359e8ff/css/bootstrap.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/css/bootstrap-cyborg.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373989852119" ignored="false" />
-    <file path="/a.dummy" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374424070235" ignored="false" />
+    <file path="/a.dummy" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374425542478" ignored="false" />
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.dataTables.min.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990726413" ignored="false" />
     <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418026325" ignored="false" />
     <file path="/column2.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373995676408" ignored="false" />
-    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374411620856" ignored="false" />
+    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374424237489" ignored="false" />
     <file path="/error.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070802496" ignored="false" />
     <file path="/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374200938782" ignored="false" />
     <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/kiosk/usercontrols/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374202062090" ignored="false" />
@@ -104,6 +96,7 @@
     <file path="$PROJECT_DIR$/assets/3fb3949f/misc/elfinder-connector/elFinderConnector.class.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418828268" ignored="false" />
     <file path="$PROJECT_DIR$/assets/3fb3949f/misc/elfinder-connector/elFinder.class.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418828268" ignored="false" />
     <file path="/file-manager.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374423646341" ignored="false" />
+    <file path="/ElFinderWidget.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374425391430" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,16 +119,16 @@
       <file leaf-file-name="ElfinderController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="144" selection-end="144" vertical-scroll-proportion="-4.285714">
+            <state line="11" column="42" selection-start="431" selection-end="431" vertical-scroll-proportion="-7.857143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElFinderWidget.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ElFinderWidget.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderWidget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="36.42857">
+            <state line="55" column="39" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.6839729">
               <folding />
             </state>
           </provider>
@@ -146,26 +139,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="49" selection-start="340" selection-end="340" vertical-scroll-proportion="-9.285714">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="6.428571">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="charisma.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="36" selection-start="4549" selection-end="4549" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1374423525135" expanded="false" signature="14457:14483" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -188,19 +161,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connector.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/connector.php">
+      <file leaf-file-name="file-manager.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="9" selection-start="2002" selection-end="2002" vertical-scroll-proportion="-11.745455">
+            <state line="31" column="14" selection-start="1299" selection-end="1301" vertical-scroll-proportion="-5.607143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file-manager.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
+      <file leaf-file-name="jquery.elfinder.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/jquery.elfinder.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="14" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.56892776">
+            <state line="11" column="58" selection-start="24822" selection-end="24822" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="41" selection-start="4879" selection-end="4879" vertical-scroll-proportion="-7.178571">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElFinderConnectorAction.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderConnectorAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerFileInput.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ServerFileInput.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="68.57143">
               <folding />
             </state>
           </provider>
@@ -226,14 +226,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/framework/web/auth/CWebUser.php" />
-        <option value="$PROJECT_DIR$/protected/views/category/index.php" />
         <option value="$PROJECT_DIR$/protected/controllers/CategoryController.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/components/AdminController.php" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/default/login.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/assets/css/admin.css" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/default/table.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/default/header.php" />
         <option value="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.elfinder.min.js" />
@@ -241,7 +238,10 @@
         <option value="$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/AdminModule.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/assets/js/charisma.js" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/default/footer.php" />
+        <option value="$PROJECT_DIR$/protected/extensions/elfinder/ElFinderWidget.php" />
       </list>
     </option>
   </component>
@@ -631,6 +631,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elfinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studyenglish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -704,13 +734,18 @@
       <created>1374074413017</created>
       <updated>1374074413017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove header and footer on admin sub pages">
+      <created>1374424250529</created>
+      <updated>1374424250529</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1932" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24750277" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39067703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -725,7 +760,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -794,42 +828,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/bform.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/mime.types">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/MySQLStorage.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="735" selection-end="735" vertical-scroll-proportion="0.51715684">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/elFinderVolumeMySQL.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="44" selection-start="1083" selection-end="1083" vertical-scroll-proportion="-10.714286">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="720" column="8" selection-start="17708" selection-end="17708" vertical-scroll-proportion="0.35208333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/misc/elfinder-connector/elFinder.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="236" column="11" selection-start="7473" selection-end="7476" vertical-scroll-proportion="-70.67273">
@@ -841,7 +839,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="156" column="36" selection-start="4549" selection-end="4549" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1374423525135" expanded="false" signature="14457:14483" placeholder="..." />
+            <marker date="1374423525135" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -863,16 +861,23 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="54" selection-start="836" selection-end="840" vertical-scroll-proportion="25.0">
+        <state line="18" column="10" selection-start="735" selection-end="735" vertical-scroll-proportion="-10.714286">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/DefaultController.php">
+    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderConnectorAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="5" vertical-scroll-proportion="6.428571">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ServerFileInput.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="68.57143">
           <folding />
         </state>
       </provider>
@@ -884,20 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderWidget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="36.42857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="144" selection-end="144" vertical-scroll-proportion="-4.285714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/AdminModule.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="73" selection-start="2623" selection-end="2623" vertical-scroll-proportion="-6.6545453">
@@ -905,9 +896,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="54" selection-start="836" selection-end="840" vertical-scroll-proportion="25.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/3fb3949f/js/jquery.elfinder.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="647" selection-start="41809" selection-end="41809" vertical-scroll-proportion="0.24742268">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/assets/js/jquery.elfinder.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="58" selection-start="24822" selection-end="24822" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="41" selection-start="4879" selection-end="4879" vertical-scroll-proportion="-7.178571">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/ElfinderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="431" selection-end="431" vertical-scroll-proportion="-7.857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/default/file-manager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="14" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.56892776">
+        <state line="31" column="14" selection-start="1299" selection-end="1301" vertical-scroll-proportion="-5.607143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/extensions/elfinder/ElFinderWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="39" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.6839729">
           <folding />
         </state>
       </provider>

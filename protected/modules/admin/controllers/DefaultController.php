@@ -87,6 +87,11 @@ class DefaultController extends AdminController
         $this->render('grid');
     }
 
+    public function actionIcon(){
+
+        $this->render('icon');
+    }
+
     public function actionTable(){
 
         $this->render('table');

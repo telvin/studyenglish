@@ -32,6 +32,8 @@ class SiteController extends Controller
         $this->layout='//layouts/container1';
 		// renders the view file 'protected/views/site/index.php'
 		// using the default layout 'protected/views/layouts/main.php'
+
+        Yii::app()->clientScript->registerScriptFile(Yii::app()->theme->baseUrl . '/js/digy/functions.js', CClientScript::POS_END);
 		$this->render('index');
 	}
 
@@ -80,7 +82,11 @@ class SiteController extends Controller
 	 */
 	public function actionLogin()
 	{
+        Yii::app()->clientScript->registerCssFile(Yii::app()->theme->baseUrl .'/css/login-flip.css');
+        Yii::app()->clientScript->registerScriptFile(Yii::app()->theme->baseUrl . '/js/misc/login-flip.js', CClientScript::POS_END);
+
 		$model=new LoginForm;
+        $model2 = new ForgotPwForm;
 
 		// if it is ajax validation request
 		if(isset($_POST['ajax']) && $_POST['ajax']==='login-form')
@@ -99,8 +105,24 @@ class SiteController extends Controller
             }
 
 		}
+        elseif($_POST['ForgotPwForm']){
+            $model->attributes=$_POST['ForgotForm'];
+            if($model->validate() && $model->check_email_exist())
+            {
+                // send email and update account
+                $user_email = User::model()->find('email=:email', array(':email' => $model->email));
+
+                $msg = Commons::buildEmailContent(1,
+                    array('name'		=>	$user_email->first_name . ' ' . $user_email->last_name,
+                        'FULL_NAME'		=>	$user_email->login_name,
+                        'RESET_PASSWORD_URL' =>	Yii::app()->createAbsoluteUrl('site/resetpassword')), $subject);
+                $from_mail	=	Yii::app()->params['fromEmail'];
+                Commons::sendMail($from_mail, $model->email, 'Forgot password from SignSmart', $msg, true, "", "");
+            }
+        }
+
 		// display the login form
-		$this->render('login',array('model'=>$model));
+		$this->render('login',array('model'=>$model,'model2'=>$model2));
 	}
 
 	/**
@@ -111,4 +133,8 @@ class SiteController extends Controller
 		Yii::app()->user->logout();
 		$this->redirect(Yii::app()->homeUrl);
 	}
+
+    public function actionResetPassword(){
+        $this->render('reset-password');
+    }
 }

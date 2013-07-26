@@ -18,7 +18,7 @@ body {
     line-height: 22px;
     font-family: arial, sans-serif;
     color: #828282;
-    background: url(../images/body.png) repeat 0 0;
+    /*background: url(../images/body.png) repeat 0 0;*/
     min-width: 100%;
 }
 
@@ -36,6 +36,7 @@ input, textarea, select { font-size: 12px; font-family: arial, sans-serif; }
 textarea { overflow: auto; }
 
 .cl { display: block; height: 0; font-size: 0; line-height: 0; text-indent: -4000px; clear: both; }
+.errorMessage{color: red;}
 .notext { font-size: 0; line-height: 0; text-indent: -4000px; }
 .left, .alignleft { float: left; display: inline; }
 .right, .alignright { float: right; display: inline; }
@@ -47,7 +48,7 @@ textarea { overflow: auto; }
 .header-top { height: 72px;  }
 
 #logo { width: 142px; font-size: 0; line-height: 0; float: left; }
-#logo a { height: 57px; display: block;  background: url(../images/logo.png) no-repeat 0 0; text-indent: -4000px; }
+#logo a { height: 57px; display: block;  background: url(../images/logo1.png) no-repeat 0 0; text-indent: -4000px; }
 
 #navigation { float: right; padding-top: 13px; }
 #navigation ul { list-style: none; list-style-position: outside; font-size: 17px; font-family: 'Coda', cursive; font-weight: 400;  }
@@ -190,7 +191,7 @@ textarea { overflow: auto; }
 .main .cols .col .col-cnt { height: 100%; overflow: hidden; }
 
 .main .post { padding-left: 32px; padding-right: 32px; }
-.main .post img { float: left; margin-right: 18px; width: 333px; height: 333px; }
+.main .post img.intro { float: left; margin-right: 18px; width: 333px; height: 333px; }
 .main .post-cnt { padding-top: 22px; }
 .main .post-cnt p { padding-bottom: 10px; }
 .main .post-cnt ul { list-style: none; list-style-position: outside; height: 100%; overflow: hidden; }
@@ -316,7 +317,7 @@ textarea { overflow: auto; }
 
     .main .post { padding-left: 20px; padding-right: 20px; }
     .main .post h2 { font-size: 21px;  }
-    .main .post img { width: 274px; height: 274px; }
+    .main .post img.intro { width: 274px; height: 274px; }
 
     .main .socials { height: 80px; padding-top: 16px;  margin: 0 20px; }
     .main .socials p { display: block; float: none; line-height: 22px; }
@@ -405,7 +406,7 @@ textarea { overflow: auto; }
 
     .main .post { padding-left: 20px; padding-right: 20px; }
     .main .post h2 { font-size: 21px;  }
-    .main .post img { width: 274px; height: 274px; }
+    .main .post img.intro { width: 274px; height: 274px; }
 
     .main .socials { height: 120px; padding-top: 16px;  margin: 0 10px; }
     .main .socials p { display: block; float: none; line-height: 22px; }

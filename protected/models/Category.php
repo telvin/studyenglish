@@ -8,6 +8,7 @@
  * @property string $name
  * @property string $description
  * @property integer $priority
+ * @property string $color_code
  */
 class Category extends CActiveRecord
 {
@@ -40,10 +41,11 @@ class Category extends CActiveRecord
 			array('category_id', 'required'),
 			array('category_id, priority', 'numerical', 'integerOnly'=>true),
 			array('name', 'length', 'max'=>255),
+			array('color_code', 'length', 'max'=>6),
 			array('description', 'safe'),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('category_id, name, description, priority', 'safe', 'on'=>'search'),
+			array('category_id, name, description, priority, color_code', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -68,6 +70,7 @@ class Category extends CActiveRecord
 			'name' => 'Name',
 			'description' => 'Description',
 			'priority' => 'Priority',
+			'color_code' => 'Color Code',
 		);
 	}
 
@@ -86,6 +89,7 @@ class Category extends CActiveRecord
 		$criteria->compare('name',$this->name,true);
 		$criteria->compare('description',$this->description,true);
 		$criteria->compare('priority',$this->priority);
+		$criteria->compare('color_code',$this->color_code,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

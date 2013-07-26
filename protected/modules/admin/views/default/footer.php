@@ -22,8 +22,8 @@
 		</div>
 
 		<footer>
-			<p class="pull-left">&copy; <a href="http://usman.it" target="_blank">Muhammad Usman</a> <?php echo date('Y') ?></p>
-			<p class="pull-right">Powered by: <a href="http://usman.it/free-responsive-admin-template"><?php echo CHtml::encode(Yii::app()->name); ?></a></p>
+			<p class="pull-left">&copy; <a href="http://localhost/studyenglish" target="_blank">Independent partner</a> <?php echo date('Y') ?></p>
+			<p class="pull-right">Powered by: <a href="http://localhost/studyenglish"><?php echo CHtml::encode(Yii::app()->name); ?></a></p>
 		</footer>
 		<?php } ?>
 

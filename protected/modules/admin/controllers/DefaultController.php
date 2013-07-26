@@ -23,7 +23,11 @@ class DefaultController extends AdminController
     public function actionLogin(){
         $this->no_visible_elements=true;
 
-        $model=new LoginForm;
+        $loggedAdmin = User::model()->findByAttributes(array('user_id'=>Yii::app()->user->getId(), 'is_admin'=>1));
+        if($loggedAdmin != null)
+            $this->redirect($this->createUrl('default/index'));
+
+        $model = new LoginForm;
 
         // if it is ajax validation request
         if(isset($_POST['ajax']) && $_POST['ajax']==='login-form')

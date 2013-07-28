@@ -60,7 +60,7 @@
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.dataTables.min.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990726413" ignored="false" />
     <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418026325" ignored="false" />
     <file path="/column2.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373995676408" ignored="false" />
-    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375036414462" ignored="false" />
+    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375036520467" ignored="false" />
     <file path="/error.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070802496" ignored="false" />
     <file path="/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374200938782" ignored="false" />
     <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/kiosk/usercontrols/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374487314281" ignored="false" />
@@ -718,7 +718,11 @@
       <created>1375036416812</created>
       <updated>1375036416812</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="remove header and footer on admin sub pages">
+      <created>1375036522758</created>
+      <updated>1375036522758</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">

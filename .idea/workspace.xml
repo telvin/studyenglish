@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4862c0f7-daa9-47b4-8649-cd6a85d2687f" name="Default" comment="" />
     <ignored path="studyenglish.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/main.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373952325445" ignored="false" />
@@ -60,7 +58,7 @@
     <file path="$PROJECT_DIR$/assets/2dbd5d9d/js/jquery.dataTables.min.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373990726413" ignored="false" />
     <file path="/charisma.js" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374418026325" ignored="false" />
     <file path="/column2.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1373995676408" ignored="false" />
-    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375035896442" ignored="false" />
+    <file path="/Dummy.txt" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375035922336" ignored="false" />
     <file path="/error.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374070802496" ignored="false" />
     <file path="/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374200938782" ignored="false" />
     <file path="$PROJECT_DIR$/../signsmart2/themes/sign_smart/views/kiosk/usercontrols/_index-management-actions.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1374487314281" ignored="false" />
@@ -113,6 +111,7 @@
     <file path="/category.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375032919073" ignored="false" />
     <file path="/ColorPicker.php" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375035293110" ignored="false" />
     <file path="/colorpicker.css" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375035672332" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="4862c0f7-daa9-47b4-8649-cd6a85d2687f" time="1375035972121" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +170,7 @@
       <file leaf-file-name="colorpicker.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/extensions/widgets/colorpicker/assets/css/colorpicker.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="0" selection-start="3331" selection-end="3331" vertical-scroll-proportion="0.17211328">
+            <state line="181" column="0" selection-start="3445" selection-end="3445" vertical-scroll-proportion="0.5206972">
               <folding />
             </state>
           </provider>
@@ -706,7 +705,11 @@
       <created>1375035901601</created>
       <updated>1375035901601</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="remove header and footer on admin sub pages">
+      <created>1375035925646</created>
+      <updated>1375035925646</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -730,7 +733,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="0" width="1844" height="1032" extended-state="0" />
+    <frame x="76" y="0" width="1844" height="1032" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -915,7 +918,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/extensions/widgets/colorpicker/assets/css/colorpicker.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="0" selection-start="3331" selection-end="3331" vertical-scroll-proportion="0.17211328">
+        <state line="181" column="0" selection-start="3445" selection-end="3445" vertical-scroll-proportion="0.5206972">
           <folding />
         </state>
       </provider>

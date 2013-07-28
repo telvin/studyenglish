@@ -58,6 +58,7 @@ class AdminModule extends CWebModule
         Yii::app()->setComponents(array(
             'user'=>array(
                 'class'=>'CWebUser',
+                'allowAutoLogin'=>true,
                 'loginUrl'=>Yii::app()->createUrl($this->getId().'/default/login'),
                 'returnUrl'=>Yii::app()->createUrl($this->getId().'/default/index')
             ),
@@ -66,6 +67,7 @@ class AdminModule extends CWebModule
         $this->registerCoreCss();
         $this->registerScript();
         $this->registerBootstrap();
+
     }
 
     /**
@@ -134,7 +136,7 @@ class AdminModule extends CWebModule
         {
             // this method is called before any module controller action is performed
             // you may place customized code here
-
+            $controller->layout = 'main';
             return true;
         }
         else

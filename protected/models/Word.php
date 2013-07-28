@@ -108,4 +108,16 @@ class Word extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+
+    public function sayMe(){
+        echo CHtml::ajaxSubmitButton(
+            'Get Item',
+            array('/admin/cp/Meaning'),
+            array(
+                'type'=>'POST',
+                'data' => array('word' => $this->word_id),
+                'success' => "function(){}",
+            )
+        );
+    }
 }
